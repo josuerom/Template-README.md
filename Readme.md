@@ -1,6 +1,6 @@
 
-### Clona estos el README-JR2.md
-Contiene una buena guía o plantilla para editar.
+## Te invito a que clones este repositorio
+El presente repositorio contiene un archivo <README-JR2.md> que es una buena guía o plantilla para editar.
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
