@@ -12,7 +12,7 @@ Josué Romero**
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/josuerom/readme.md-template/edit/ProjectsApacheNetbeans12.4/Readme2.md
    ```
 3. Install NPM packages
    ```sh
@@ -22,7 +22,7 @@ Josué Romero**
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
-5. Entre a la Windows Termianl `config.js`
+5. Entre a la Windows Terminal `config.js`
 ```JS
-	win + r = 'cmd';
+	win + r = <cmd>;
 ```
