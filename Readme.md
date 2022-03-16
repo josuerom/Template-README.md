@@ -1,18 +1,11 @@
-# Realizando y practicando con el curso de Java desde cero del canal "La Geekipedia de Ernesto YT"
 
-### Cordial saludo,
-**Para empezar debo comentar que yo he estado realizando refuerzo en el área que me gusta.**
-Por ello aún sigo viendo sus videos y trato de realizarlos por mi cuenta.
-
-**Cordialmente,
-Josué Romero**
-
-### Instalación
+### Clona estos el README-JR2.md
+Contiene una buena guía o plantilla para editar.
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/josuerom/readme.md-template/edit/ProjectsApacheNetbeans12.4/Readme2.md
+   git clone https://github.com/josuerom/Template-README.md.git
    ```
 3. Install NPM packages
    ```sh
@@ -26,3 +19,6 @@ Josué Romero**
 ```JS
 	win + r = <cmd>;
 ```
+
+**Cordialmente,
+Josué Romero**
