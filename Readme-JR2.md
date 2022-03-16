@@ -6,8 +6,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -29,7 +29,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
